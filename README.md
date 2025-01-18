@@ -1,4 +1,4 @@
-# Machine_Deep-Learning-with-Python
+# Machine-Learning-with-Python
 Machine learning algorithms implemented using Scikit-learn in Jupyter Notebook
 These include:
 * Regression (Linear and XGBRegressor)
