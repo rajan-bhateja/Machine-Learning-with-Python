@@ -1,2 +1,6 @@
 # Machine_Deep-Learning-with-Python
-ML/DL projects done using sklearn and TensorFlow
+Machine learning algorithms implemented using Scikit-learn in Jupyter Notebook
+These include:
+* Regression (Linear and XGBRegressor)
+* Classification (Logistic, SVM, Decision Trees, Random Forests, etc.)
+* Clustering (K-Means, DBSCAN)
